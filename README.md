@@ -14,7 +14,7 @@ Antes de ejecutar el proyecto, asegúrate de tener los siguientes programas inst
 
 ## Instalación
 
-1. **Clona el repositorio:**
+1. **Clona el repositorio:** https://github.com/DanyyelDev/To_do_list-Django.git
 2. **Instala las dependencias:**
 
     Instala las dependencias necesarias que están en el archivo requirements.txt:
